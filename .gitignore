@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+START_HERE.txt
+START_HERE.txt
+SUMMARY.txt
+PRESENTATION_NOTES.md
