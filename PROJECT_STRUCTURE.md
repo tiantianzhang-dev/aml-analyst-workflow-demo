@@ -406,6 +406,3 @@ Edit `tailwind.config.js` for colors, or component files for specific styles
 3. Add tab object to tabs array
 4. Add case in renderContent switch
 
----
-
-This structure provides a complete, production-ready demonstration tool for AML analyst workflow presentations.
