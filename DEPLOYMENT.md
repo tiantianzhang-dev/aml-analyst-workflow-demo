@@ -524,11 +524,3 @@ npm version major  # 1.1.0 -> 2.0.0
 - Component Details: Check inline code comments
 - Updates: Monitor repository releases
 
----
-
-**Recommended Deployment**: Vercel or Netlify for simplicity, Docker for production environments requiring custom infrastructure.
-
-**Estimated Setup Time**:
-- Vercel/Netlify: 5-10 minutes
-- Docker: 15-30 minutes
-- Cloud Platform: 30-60 minutes
