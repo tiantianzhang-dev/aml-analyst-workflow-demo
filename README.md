@@ -269,22 +269,6 @@ Potential additions for extended demonstrations:
 - Mobile responsive optimizations
 - WebSocket integration for true real-time updates
 
-## Demonstration Tips
-
-When presenting this demonstrator:
-
-1. **Start with Model Monitoring** - Most visually impressive with live metrics
-2. **Use Onboarding Risk Calculator** - Interactive slider engagement
-3. **Show Model Validation** - Technical rigor with confusion matrix
-4. **Highlight Regulatory Compliance** - GDPR, AMLD awareness
-5. **Emphasize Business Impact** - ROI and cost savings
-
-Key talking points:
-- PSI calculation methodology for drift detection
-- Feature engineering approach with weighted scoring
-- Model validation process with hold-out data
-- Regulatory compliance alignment
-- Real-time processing capabilities (847 TPS)
 
 ## License
 
