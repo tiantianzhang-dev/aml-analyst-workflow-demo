@@ -272,11 +272,11 @@ Potential additions for extended demonstrations:
 
 ## License
 
-This project is provided as a demonstration tool for educational and professional presentation purposes.
+This project is provided as a demonstration tool for professional presentation purposes.
 
 ## Contact
 
-For questions or customization requests, please reach out through appropriate channels.
+For questions or customization requests, please reach out to zhang_tian_tian@outlook.com.
 
 ---
 
